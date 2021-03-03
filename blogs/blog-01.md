@@ -48,7 +48,7 @@ I previously thought I had a grasp on subnetting, but after continuously getting
  
 > subnet mask is :triangular_flag_on_post: /26 :triangular_flag_on_post:
 
-> the number of usable hosts is :triangular_flag_on_post: 64 :triangular_flag_on_post: minus two (netowrk ID & broadcast ID)
+> the number of usable hosts is :triangular_flag_on_post: 64 :triangular_flag_on_post: minus two (network ID & broadcast ID)
 
 > the first broadcast ID is the following network ID minus one. after the first broadcast ID, add :triangular_flag_on_post: 64 :triangular_flag_on_post: to find each additional broadcast ID
 
