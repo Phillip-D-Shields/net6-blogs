@@ -36,9 +36,9 @@ I previously thought I had a grasp on subnetting, but after continuously getting
 
 |             	|     	|     	|     	|     	|     	|     	|     	|     	|     	|
 |-------------	|-----	|-----	|-----	|-----	|-----	|-----	|-----	|-----	|-----	|
-| subnet      	| 1   	| 2   	| 4   :triangular_flag_on_post:	| 8   	| 16  	| 32  	| 64  	| 128 	| 256 	|
-| host        	| 256 	| 128 	| 64  :triangular_flag_on_post:	| 32  	| 16  	| 8   	| 4   	| 2   	| 1   	|
-| subnet mask 	| /24 	| /25 	| /26 :triangular_flag_on_post:	| /27 	| /28 	| /29 	| /30 	| /31 	| /31 	|
+| subnet      	| 1   	| 2   	|:triangular_flag_on_post: 4   :triangular_flag_on_post:	| 8   	| 16  	| 32  	| 64  	| 128 	| 256 	|
+| host        	| 256 	| 128 	|:triangular_flag_on_post: 64  :triangular_flag_on_post:	| 32  	| 16  	| 8   	| 4   	| 2   	| 1   	|
+| subnet mask 	| /24 	| /25 	|:triangular_flag_on_post: /26 :triangular_flag_on_post:	| /27 	| /28 	| /29 	| /30 	| /31 	| /31 	|
 
 ### 2. create subnet answer table using key table values
 
