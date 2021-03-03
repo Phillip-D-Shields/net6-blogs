@@ -31,6 +31,7 @@ I previously thought I had a grasp on subnetting, but after continuously getting
 | subnet mask 	| /24 	| /25 	| /26 	| /27 	| /28 	| /29 	| /30 	| /31 	| /31 	|
 
 > since we need three subnets, we will use :triangular_flag_on_post: 4 :triangular_flag_on_post: because `3 > 2 && 3 < 4` .
+
 > the numbers in this column can be used to find the subnet information we need. 
 
 |             	|     	|     	|     	|     	|     	|     	|     	|     	|     	|
