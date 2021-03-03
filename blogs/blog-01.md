@@ -18,7 +18,7 @@ I previously thought I had a grasp on subnetting, but after continuously getting
 > 1. network ID
 > 2. subnet mask
 > 3. Host ID range
-> 4. # of usable host IDs
+> 4. number of usable host IDs
 > 5. broadcast ID
 > 
 
