@@ -1,4 +1,4 @@
-# Blog - 03
+# Blog - 02
 ### still on binaries
 
 we reviewed binary conversion for subnets and talked a small amount about the actual network setup. pretty sure most of us are confused.
