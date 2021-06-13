@@ -5,6 +5,4 @@ I have enabled discussions on this repo, just click on the Discussions tab above
 check out our [initial discussion post here](https://github.com/Phillip-D-Shields/net6-blogs/discussions/1)
 
 
-### Current Blogs
-- #### [Blog-00](https://github.com/Phillip-D-Shields/net6-blogs/blob/main/blogs/blog-00.md)
-- #### [Subnetting Woes](https://github.com/Phillip-D-Shields/net6-blogs/blob/main/blogs/blog-01.md)
+## [BLOGS HERE](https://github.com/Phillip-D-Shields/net6-blogs/tree/main/blogs)
