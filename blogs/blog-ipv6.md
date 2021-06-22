@@ -2,9 +2,9 @@
 
 IPv6 is a layer protocol for transmissions across IP networks. It adheres to fundamentals established by IPv4.
 
-![ipv4 pic]()
+![ipv4 pic](../assets/ipv4.png)
 
-![ipv6 pic]()
+![ipv6 pic](../assets/ipv6.png)
 
 A major feature of IPv6 is the way that it simplifies the address configuration. This also simplifies the process through which packets are transmitted.
 
